@@ -37,5 +37,13 @@ https://docs.google.com/document/d/1E0_SvNLQoOxgYIOhwv5_9GZyoYdHjUN-tm4szwmfQ9o/
 
 New line :
 
+Documentation / Montée en compétence
+Pour ceux qui démarrent avec git
+https://github.com/jlord/git-it-electron/releases
+Pour ceux qui connaissent deja git
+Explorer les commandes avancées sur:
+https://learngitbranching.js.org/
+
+
 
 
