@@ -3,12 +3,9 @@ Notes de formation et liens utiles
 # Accéder au bloc note
 https://codeshare.io/Wdk3xE
 
-Pratique avec Git
-https://docs.google.com/document/d/1E0_SvNLQoOxgYIOhwv5_9GZyoYdHjUN-tm4szwmfQ9o/edit#
-
 # Emargement
-Seance 2
-https://app.sowesign.com/sign/6010345342567295
+Seance 4
+https://app.sowesign.com/sign/6010315781614762
 
 # Dossiers google Drive
 
@@ -34,15 +31,28 @@ git config --global user.email "..."
 Pratique avec Git
 https://docs.google.com/document/d/1E0_SvNLQoOxgYIOhwv5_9GZyoYdHjUN-tm4szwmfQ9o/edit#
 
+# Intro Gitlab
+Open source (Community Edition) vs Entreprise (Enterprise Edition)
+https://about.gitlab.com/install/ce-or-ee/
+https://about.gitlab.com/pricing/self-managed/feature-comparison/
 
-New line :
+## Générer une clé ssh pour Gitlab
+ssh-keygen -t rsa -b 2048 -C "<comment>"
 
-Documentation / Montée en compétence
-Pour ceux qui démarrent avec git
-https://github.com/jlord/git-it-electron/releases
-Pour ceux qui connaissent deja git
-Explorer les commandes avancées sur:
-https://learngitbranching.js.org/
+## Pour retrouver la clé
+cd ~/.ssh/
+
+# Gitlab CI
+
+## Exemple de projet JS 
+https://gitlab.com/bngams/gitlab-cicd-tutorial/-/tree/master
+
+## Concepts Gitlab et syntaxe du pipeline
+https://docs.google.com/document/d/1vWaxyLVjj_LO1wKz2MY2o32orkTxjnRi8KGBt63jjvY/edit
+https://github.com/bngams/gitlab-ci-training
+
+
+
 
 Divers : git remote -v show peut servir
 
