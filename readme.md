@@ -44,6 +44,12 @@ Pour ceux qui connaissent deja git
 Explorer les commandes avancées sur:
 https://learngitbranching.js.org/
 
+Divers : git remote -v show peut servir
 
+Le 25/11/2021 : 
+
+#CMMI
+
+https://ressources.anap.fr/numerique/publication/221-connaitre-les-modeles-de-gouvernance-des-systemes-d-information/3811-introduction-au-cmmi
 
 
